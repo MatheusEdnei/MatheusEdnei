@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### About me
+
+I'm Matheus Ednei (sometimes Matheus Souza).
+I'm a software developer, with focus on BackEnd developing, working with JavaScript, TypeScript and Java. I love technology and love the many things that we can create with technology. I think that change the world and make it in a better place. 
+
 <!--
 **MatheusEdnei/MatheusEdnei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
